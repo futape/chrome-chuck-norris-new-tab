@@ -3,7 +3,7 @@
 	"name": "Chuck Norris New Tab Page",
 	"short_name": "Chuck Norris",
 	"description": "A New Tab Page featuring Chuck Norris Jokes from chucknorris.io.",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"icons": {
 		"16": "resources/images/icons/16.png",
 		"48": "resources/images/icons/48.png",
